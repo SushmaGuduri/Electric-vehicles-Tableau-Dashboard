@@ -1,5 +1,5 @@
 Electric Vehicle Market Analysis with Tableau
-"C:\Users\sushm\Downloads\tableau.jpg"
+
 
 In this project, I conducted an in-depth analysis of the electric vehicle (EV) market using Tableau. The dashboard includes key insights into the market size and growth of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
 
